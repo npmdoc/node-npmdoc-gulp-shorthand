@@ -1,4 +1,7 @@
-# api documentation for  [gulp-shorthand (v1.1.0)](https://github.com/kevva/gulp-shorthand)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-shorthand.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-shorthand) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-shorthand.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-shorthand)
+# npmdoc-gulp-shorthand
+
+#### api documentation for  [gulp-shorthand (v1.1.0)](https://github.com/kevva/gulp-shorthand)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-shorthand.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-shorthand) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-shorthand.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-shorthand)
+
 #### Makes your CSS files lighter and more readable
 
 [![NPM](https://nodei.co/npm/gulp-shorthand.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-shorthand)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "node test.js"
     },
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "bin": {}
 }
 ```
 
